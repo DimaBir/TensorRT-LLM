@@ -1,2 +1,2 @@
 # TensorRT-LLM
-Hamds-on project on BERT optimization using TensorRT-LLM framework
+Hands-on project on GPT/BERT optimization using TensorRT-LLM framework
